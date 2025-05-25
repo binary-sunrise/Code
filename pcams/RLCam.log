@@ -1,0 +1,1032 @@
+[2025-04-26 11:32:17.542] [info] ====================###########################====================
+[2025-04-26 11:32:17.542] [info] Logging camera to /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/RLCam.log
+[2025-04-26 11:32:18.990] [info] ----- TRIGGER NO. 0 true
+[2025-04-26 11:32:19.077] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:19.077] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:19.184] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000000-RL.jpg
+[2025-04-26 11:32:19.242] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:27.655] [info] ----- TRIGGER NO. 1 true
+[2025-04-26 11:32:27.740] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:27.740] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:27.835] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000001-RL.jpg
+[2025-04-26 11:32:27.904] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:29.787] [info] ----- TRIGGER NO. 2 true
+[2025-04-26 11:32:29.874] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:29.874] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:30.006] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000002-RL.jpg
+[2025-04-26 11:32:30.039] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:31.586] [info] ----- TRIGGER NO. 3 true
+[2025-04-26 11:32:31.672] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:31.672] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:31.765] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000003-RL.jpg
+[2025-04-26 11:32:31.837] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:33.073] [info] ----- TRIGGER NO. 4 true
+[2025-04-26 11:32:33.159] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:33.159] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:33.257] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000004-RL.jpg
+[2025-04-26 11:32:33.324] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:34.383] [info] ----- TRIGGER NO. 5 true
+[2025-04-26 11:32:34.470] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:34.470] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:34.568] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000005-RL.jpg
+[2025-04-26 11:32:34.635] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:35.711] [info] ----- TRIGGER NO. 6 true
+[2025-04-26 11:32:35.799] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:35.799] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:35.900] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000006-RL.jpg
+[2025-04-26 11:32:35.964] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:36.978] [info] ----- TRIGGER NO. 7 true
+[2025-04-26 11:32:37.063] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:37.063] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:37.161] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000007-RL.jpg
+[2025-04-26 11:32:37.228] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:38.160] [info] ----- TRIGGER NO. 8 true
+[2025-04-26 11:32:38.244] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:38.244] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:38.339] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000008-RL.jpg
+[2025-04-26 11:32:38.408] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:39.279] [info] ----- TRIGGER NO. 9 true
+[2025-04-26 11:32:39.367] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:39.367] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:39.464] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000009-RL.jpg
+[2025-04-26 11:32:39.531] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:40.341] [info] ----- TRIGGER NO. 10 true
+[2025-04-26 11:32:40.427] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:40.427] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:40.523] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000010-RL.jpg
+[2025-04-26 11:32:40.591] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:41.361] [info] ----- TRIGGER NO. 11 true
+[2025-04-26 11:32:41.446] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:41.446] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:41.540] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000011-RL.jpg
+[2025-04-26 11:32:41.610] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:42.343] [info] ----- TRIGGER NO. 12 true
+[2025-04-26 11:32:42.430] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:42.430] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:42.523] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000012-RL.jpg
+[2025-04-26 11:32:42.594] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:43.292] [info] ----- TRIGGER NO. 13 true
+[2025-04-26 11:32:43.377] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:43.377] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:43.523] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000013-RL.jpg
+[2025-04-26 11:32:43.542] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:44.244] [info] ----- TRIGGER NO. 14 true
+[2025-04-26 11:32:44.329] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:44.329] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:44.476] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000014-RL.jpg
+[2025-04-26 11:32:44.493] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:45.197] [info] ----- TRIGGER NO. 15 true
+[2025-04-26 11:32:45.281] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:45.281] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:45.375] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000015-RL.jpg
+[2025-04-26 11:32:45.445] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:46.136] [info] ----- TRIGGER NO. 16 true
+[2025-04-26 11:32:46.224] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:46.224] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:46.356] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000016-RL.jpg
+[2025-04-26 11:32:46.389] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:47.055] [info] ----- TRIGGER NO. 17 true
+[2025-04-26 11:32:47.139] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:47.139] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:47.230] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000017-RL.jpg
+[2025-04-26 11:32:47.303] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:47.953] [info] ----- TRIGGER NO. 18 true
+[2025-04-26 11:32:48.040] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:48.040] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:48.132] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000018-RL.jpg
+[2025-04-26 11:32:48.203] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:48.830] [info] ----- TRIGGER NO. 19 true
+[2025-04-26 11:32:48.915] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:48.915] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:49.012] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000019-RL.jpg
+[2025-04-26 11:32:49.080] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:49.689] [info] ----- TRIGGER NO. 20 true
+[2025-04-26 11:32:49.774] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:49.774] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:49.868] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000020-RL.jpg
+[2025-04-26 11:32:49.941] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:50.531] [info] ----- TRIGGER NO. 21 true
+[2025-04-26 11:32:50.618] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:50.618] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:50.713] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000021-RL.jpg
+[2025-04-26 11:32:50.782] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:51.360] [info] ----- TRIGGER NO. 22 true
+[2025-04-26 11:32:51.445] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:51.445] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:51.539] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000022-RL.jpg
+[2025-04-26 11:32:51.611] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:52.175] [info] ----- TRIGGER NO. 23 true
+[2025-04-26 11:32:52.260] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:52.260] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:52.353] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000023-RL.jpg
+[2025-04-26 11:32:52.424] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:52.978] [info] ----- TRIGGER NO. 24 true
+[2025-04-26 11:32:53.062] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:53.062] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:53.154] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000024-RL.jpg
+[2025-04-26 11:32:53.226] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:53.770] [info] ----- TRIGGER NO. 25 true
+[2025-04-26 11:32:53.857] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:53.857] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:53.978] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000025-RL.jpg
+[2025-04-26 11:32:54.021] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:54.553] [info] ----- TRIGGER NO. 26 true
+[2025-04-26 11:32:54.639] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:54.639] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:54.737] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000026-RL.jpg
+[2025-04-26 11:32:54.803] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:55.332] [info] ----- TRIGGER NO. 27 true
+[2025-04-26 11:32:55.417] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:55.417] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:55.514] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000027-RL.jpg
+[2025-04-26 11:32:55.582] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:56.111] [info] ----- TRIGGER NO. 28 true
+[2025-04-26 11:32:56.195] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:56.195] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:56.291] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000028-RL.jpg
+[2025-04-26 11:32:56.359] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:56.888] [info] ----- TRIGGER NO. 29 true
+[2025-04-26 11:32:56.975] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:56.975] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:57.071] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000029-RL.jpg
+[2025-04-26 11:32:57.140] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:57.664] [info] ----- TRIGGER NO. 30 true
+[2025-04-26 11:32:57.750] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:57.750] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:57.892] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000030-RL.jpg
+[2025-04-26 11:32:57.915] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:58.446] [info] ----- TRIGGER NO. 31 true
+[2025-04-26 11:32:58.530] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:58.530] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:58.626] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000031-RL.jpg
+[2025-04-26 11:32:58.693] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:32:59.235] [info] ----- TRIGGER NO. 32 true
+[2025-04-26 11:32:59.322] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:32:59.322] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:32:59.419] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000032-RL.jpg
+[2025-04-26 11:32:59.488] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:00.030] [info] ----- TRIGGER NO. 33 true
+[2025-04-26 11:33:00.119] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:00.119] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:00.216] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000033-RL.jpg
+[2025-04-26 11:33:00.284] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:00.832] [info] ----- TRIGGER NO. 34 true
+[2025-04-26 11:33:00.918] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:00.918] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:01.013] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000034-RL.jpg
+[2025-04-26 11:33:01.083] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:01.642] [info] ----- TRIGGER NO. 35 true
+[2025-04-26 11:33:01.730] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:01.730] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:01.825] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000035-RL.jpg
+[2025-04-26 11:33:01.896] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:02.458] [info] ----- TRIGGER NO. 36 true
+[2025-04-26 11:33:02.545] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:02.545] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:02.641] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000036-RL.jpg
+[2025-04-26 11:33:02.709] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:03.278] [info] ----- TRIGGER NO. 37 true
+[2025-04-26 11:33:03.364] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:03.364] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:03.459] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000037-RL.jpg
+[2025-04-26 11:33:03.531] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:04.102] [info] ----- TRIGGER NO. 38 true
+[2025-04-26 11:33:04.189] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:04.189] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:04.329] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000038-RL.jpg
+[2025-04-26 11:33:04.353] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:04.931] [info] ----- TRIGGER NO. 39 true
+[2025-04-26 11:33:05.019] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:05.019] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:05.155] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000039-RL.jpg
+[2025-04-26 11:33:05.184] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:05.763] [info] ----- TRIGGER NO. 40 true
+[2025-04-26 11:33:05.847] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:05.847] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:05.992] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000040-RL.jpg
+[2025-04-26 11:33:06.012] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:06.597] [info] ----- TRIGGER NO. 41 true
+[2025-04-26 11:33:06.684] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:06.684] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:06.829] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000041-RL.jpg
+[2025-04-26 11:33:06.849] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:07.433] [info] ----- TRIGGER NO. 42 true
+[2025-04-26 11:33:07.519] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:07.519] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:07.613] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000042-RL.jpg
+[2025-04-26 11:33:07.684] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:08.269] [info] ----- TRIGGER NO. 43 true
+[2025-04-26 11:33:08.354] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:08.354] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:08.452] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000043-RL.jpg
+[2025-04-26 11:33:08.518] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:09.110] [info] ----- TRIGGER NO. 44 true
+[2025-04-26 11:33:09.196] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:09.196] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:09.330] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000044-RL.jpg
+[2025-04-26 11:33:09.359] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:09.959] [info] ----- TRIGGER NO. 45 true
+[2025-04-26 11:33:10.047] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:10.047] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:10.143] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000045-RL.jpg
+[2025-04-26 11:33:10.211] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:10.816] [info] ----- TRIGGER NO. 46 true
+[2025-04-26 11:33:10.902] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:10.902] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:10.996] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000046-RL.jpg
+[2025-04-26 11:33:11.067] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:11.674] [info] ----- TRIGGER NO. 47 true
+[2025-04-26 11:33:11.760] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:11.760] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:11.853] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000047-RL.jpg
+[2025-04-26 11:33:11.925] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:13.402] [info] ----- TRIGGER NO. 48 true
+[2025-04-26 11:33:13.489] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:13.489] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:13.579] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000048-RL.jpg
+[2025-04-26 11:33:13.652] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:14.265] [info] ----- TRIGGER NO. 49 true
+[2025-04-26 11:33:14.353] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:14.353] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:14.445] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000049-RL.jpg
+[2025-04-26 11:33:14.517] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:15.124] [info] ----- TRIGGER NO. 50 true
+[2025-04-26 11:33:15.211] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:15.211] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:15.337] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000050-RL.jpg
+[2025-04-26 11:33:15.374] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:15.984] [info] ----- TRIGGER NO. 51 true
+[2025-04-26 11:33:16.069] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:16.069] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:16.214] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000051-RL.jpg
+[2025-04-26 11:33:16.235] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:16.843] [info] ----- TRIGGER NO. 52 true
+[2025-04-26 11:33:16.930] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:16.930] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:17.023] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000052-RL.jpg
+[2025-04-26 11:33:17.094] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:17.701] [info] ----- TRIGGER NO. 53 true
+[2025-04-26 11:33:17.787] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:17.787] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:17.880] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000053-RL.jpg
+[2025-04-26 11:33:17.951] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:18.557] [info] ----- TRIGGER NO. 54 true
+[2025-04-26 11:33:18.643] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:18.643] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:18.737] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000054-RL.jpg
+[2025-04-26 11:33:18.808] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:19.415] [info] ----- TRIGGER NO. 55 true
+[2025-04-26 11:33:19.502] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:19.502] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:19.599] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000055-RL.jpg
+[2025-04-26 11:33:19.667] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:20.279] [info] ----- TRIGGER NO. 56 true
+[2025-04-26 11:33:20.365] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:20.365] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:20.458] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000056-RL.jpg
+[2025-04-26 11:33:20.529] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:21.141] [info] ----- TRIGGER NO. 57 true
+[2025-04-26 11:33:21.229] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:21.229] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:21.322] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000057-RL.jpg
+[2025-04-26 11:33:21.395] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:22.003] [info] ----- TRIGGER NO. 58 true
+[2025-04-26 11:33:22.089] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:22.089] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:22.181] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000058-RL.jpg
+[2025-04-26 11:33:22.253] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:22.862] [info] ----- TRIGGER NO. 59 true
+[2025-04-26 11:33:22.949] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:22.949] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:23.043] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000059-RL.jpg
+[2025-04-26 11:33:23.114] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:23.721] [info] ----- TRIGGER NO. 60 true
+[2025-04-26 11:33:23.808] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:23.809] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:23.902] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000060-RL.jpg
+[2025-04-26 11:33:23.973] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:24.575] [info] ----- TRIGGER NO. 61 true
+[2025-04-26 11:33:24.662] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:24.662] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:24.758] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000061-RL.jpg
+[2025-04-26 11:33:24.826] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:25.427] [info] ----- TRIGGER NO. 62 true
+[2025-04-26 11:33:25.512] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:25.512] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:25.652] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000062-RL.jpg
+[2025-04-26 11:33:25.678] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:26.276] [info] ----- TRIGGER NO. 63 true
+[2025-04-26 11:33:26.361] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:26.361] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:26.491] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000063-RL.jpg
+[2025-04-26 11:33:26.525] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:27.123] [info] ----- TRIGGER NO. 64 true
+[2025-04-26 11:33:27.210] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:27.210] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:27.337] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000064-RL.jpg
+[2025-04-26 11:33:27.374] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:27.966] [info] ----- TRIGGER NO. 65 true
+[2025-04-26 11:33:28.051] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:28.051] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:28.177] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000065-RL.jpg
+[2025-04-26 11:33:28.215] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:28.805] [info] ----- TRIGGER NO. 66 true
+[2025-04-26 11:33:28.892] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:28.892] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:28.996] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000066-RL.jpg
+[2025-04-26 11:33:29.057] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:29.640] [info] ----- TRIGGER NO. 67 true
+[2025-04-26 11:33:29.727] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:29.727] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:29.819] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000067-RL.jpg
+[2025-04-26 11:33:29.891] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:30.468] [info] ----- TRIGGER NO. 68 true
+[2025-04-26 11:33:30.552] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:30.552] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:30.645] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000068-RL.jpg
+[2025-04-26 11:33:30.716] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:31.291] [info] ----- TRIGGER NO. 69 true
+[2025-04-26 11:33:31.376] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:31.376] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:31.470] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000069-RL.jpg
+[2025-04-26 11:33:31.541] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:32.108] [info] ----- TRIGGER NO. 70 true
+[2025-04-26 11:33:32.197] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:32.197] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:32.323] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000070-RL.jpg
+[2025-04-26 11:33:32.362] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:32.923] [info] ----- TRIGGER NO. 71 true
+[2025-04-26 11:33:33.008] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:33.008] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:33.101] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000071-RL.jpg
+[2025-04-26 11:33:33.174] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:33.737] [info] ----- TRIGGER NO. 72 true
+[2025-04-26 11:33:33.825] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:33.825] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:33.918] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000072-RL.jpg
+[2025-04-26 11:33:33.989] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:34.551] [info] ----- TRIGGER NO. 73 true
+[2025-04-26 11:33:34.636] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:34.636] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:34.732] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000073-RL.jpg
+[2025-04-26 11:33:34.799] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:35.364] [info] ----- TRIGGER NO. 74 true
+[2025-04-26 11:33:35.451] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:35.451] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:35.545] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000074-RL.jpg
+[2025-04-26 11:33:35.616] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:36.175] [info] ----- TRIGGER NO. 75 true
+[2025-04-26 11:33:36.259] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:36.259] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:36.384] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000075-RL.jpg
+[2025-04-26 11:33:36.422] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:36.987] [info] ----- TRIGGER NO. 76 true
+[2025-04-26 11:33:37.074] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:37.074] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:37.200] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000076-RL.jpg
+[2025-04-26 11:33:37.239] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:37.800] [info] ----- TRIGGER NO. 77 true
+[2025-04-26 11:33:37.885] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:37.885] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:37.979] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000077-RL.jpg
+[2025-04-26 11:33:38.048] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:38.614] [info] ----- TRIGGER NO. 78 true
+[2025-04-26 11:33:38.701] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:38.701] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:38.796] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000078-RL.jpg
+[2025-04-26 11:33:38.864] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:39.422] [info] ----- TRIGGER NO. 79 true
+[2025-04-26 11:33:39.509] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:39.509] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:39.601] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000079-RL.jpg
+[2025-04-26 11:33:39.674] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:40.230] [info] ----- TRIGGER NO. 80 true
+[2025-04-26 11:33:40.315] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:40.315] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:40.406] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000080-RL.jpg
+[2025-04-26 11:33:40.480] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:41.032] [info] ----- TRIGGER NO. 81 true
+[2025-04-26 11:33:41.119] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:41.119] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:41.214] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000081-RL.jpg
+[2025-04-26 11:33:41.285] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:41.826] [info] ----- TRIGGER NO. 82 true
+[2025-04-26 11:33:41.912] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:41.912] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:42.005] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000082-RL.jpg
+[2025-04-26 11:33:42.076] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:42.612] [info] ----- TRIGGER NO. 83 true
+[2025-04-26 11:33:42.696] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:42.696] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:42.790] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000083-RL.jpg
+[2025-04-26 11:33:42.860] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:43.394] [info] ----- TRIGGER NO. 84 true
+[2025-04-26 11:33:43.480] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:43.480] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:43.577] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000084-RL.jpg
+[2025-04-26 11:33:43.645] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:44.174] [info] ----- TRIGGER NO. 85 true
+[2025-04-26 11:33:44.261] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:44.261] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:44.357] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000085-RL.jpg
+[2025-04-26 11:33:44.426] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:44.949] [info] ----- TRIGGER NO. 86 true
+[2025-04-26 11:33:45.037] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:45.037] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:45.131] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000086-RL.jpg
+[2025-04-26 11:33:45.202] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:45.728] [info] ----- TRIGGER NO. 87 true
+[2025-04-26 11:33:45.813] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:45.813] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:45.906] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000087-RL.jpg
+[2025-04-26 11:33:45.976] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:46.514] [info] ----- TRIGGER NO. 88 true
+[2025-04-26 11:33:46.601] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:46.601] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:46.696] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000088-RL.jpg
+[2025-04-26 11:33:46.764] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:47.305] [info] ----- TRIGGER NO. 89 true
+[2025-04-26 11:33:47.391] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:47.391] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:47.518] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000089-RL.jpg
+[2025-04-26 11:33:47.556] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:48.094] [info] ----- TRIGGER NO. 90 true
+[2025-04-26 11:33:48.181] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:48.181] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:48.274] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000090-RL.jpg
+[2025-04-26 11:33:48.345] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:48.880] [info] ----- TRIGGER NO. 91 true
+[2025-04-26 11:33:48.966] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:48.966] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:49.059] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000091-RL.jpg
+[2025-04-26 11:33:49.130] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:49.662] [info] ----- TRIGGER NO. 92 true
+[2025-04-26 11:33:49.748] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:49.748] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:49.841] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000092-RL.jpg
+[2025-04-26 11:33:49.914] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:50.446] [info] ----- TRIGGER NO. 93 true
+[2025-04-26 11:33:50.532] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:50.532] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:50.623] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000093-RL.jpg
+[2025-04-26 11:33:50.697] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:51.229] [info] ----- TRIGGER NO. 94 true
+[2025-04-26 11:33:51.314] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:51.314] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:51.406] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000094-RL.jpg
+[2025-04-26 11:33:51.478] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:52.010] [info] ----- TRIGGER NO. 95 true
+[2025-04-26 11:33:52.097] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:52.097] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:52.190] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000095-RL.jpg
+[2025-04-26 11:33:52.260] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:52.785] [info] ----- TRIGGER NO. 96 true
+[2025-04-26 11:33:52.872] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:52.872] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:53.018] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000096-RL.jpg
+[2025-04-26 11:33:53.038] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:53.556] [info] ----- TRIGGER NO. 97 true
+[2025-04-26 11:33:53.643] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:53.643] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:53.782] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000097-RL.jpg
+[2025-04-26 11:33:53.810] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:54.324] [info] ----- TRIGGER NO. 98 true
+[2025-04-26 11:33:54.409] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:54.409] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:54.555] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000098-RL.jpg
+[2025-04-26 11:33:54.575] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:55.090] [info] ----- TRIGGER NO. 99 true
+[2025-04-26 11:33:55.177] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:55.177] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:55.309] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000099-RL.jpg
+[2025-04-26 11:33:55.341] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:55.850] [info] ----- TRIGGER NO. 100 true
+[2025-04-26 11:33:55.936] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:55.936] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:56.029] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000100-RL.jpg
+[2025-04-26 11:33:56.099] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:56.605] [info] ----- TRIGGER NO. 101 true
+[2025-04-26 11:33:56.691] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:56.692] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:56.840] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000101-RL.jpg
+[2025-04-26 11:33:56.856] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:57.356] [info] ----- TRIGGER NO. 102 true
+[2025-04-26 11:33:57.441] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:57.441] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:57.582] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000102-RL.jpg
+[2025-04-26 11:33:57.605] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:58.108] [info] ----- TRIGGER NO. 103 true
+[2025-04-26 11:33:58.193] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:58.193] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:58.286] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000103-RL.jpg
+[2025-04-26 11:33:58.356] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:58.867] [info] ----- TRIGGER NO. 104 true
+[2025-04-26 11:33:58.954] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:58.954] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:59.044] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000104-RL.jpg
+[2025-04-26 11:33:59.118] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:33:59.632] [info] ----- TRIGGER NO. 105 true
+[2025-04-26 11:33:59.717] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:33:59.717] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:33:59.811] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000105-RL.jpg
+[2025-04-26 11:33:59.881] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:00.401] [info] ----- TRIGGER NO. 106 true
+[2025-04-26 11:34:00.489] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:00.489] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:00.609] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000106-RL.jpg
+[2025-04-26 11:34:00.653] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:01.169] [info] ----- TRIGGER NO. 107 true
+[2025-04-26 11:34:01.253] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:01.253] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:01.344] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000107-RL.jpg
+[2025-04-26 11:34:01.418] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:01.938] [info] ----- TRIGGER NO. 108 true
+[2025-04-26 11:34:02.024] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:02.024] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:02.115] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000108-RL.jpg
+[2025-04-26 11:34:02.189] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:02.712] [info] ----- TRIGGER NO. 109 true
+[2025-04-26 11:34:02.797] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:02.797] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:02.891] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000109-RL.jpg
+[2025-04-26 11:34:02.964] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:03.491] [info] ----- TRIGGER NO. 110 true
+[2025-04-26 11:34:03.577] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:03.577] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:03.672] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000110-RL.jpg
+[2025-04-26 11:34:03.741] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:04.274] [info] ----- TRIGGER NO. 111 true
+[2025-04-26 11:34:04.362] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:04.362] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:04.458] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000111-RL.jpg
+[2025-04-26 11:34:04.527] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:05.066] [info] ----- TRIGGER NO. 112 true
+[2025-04-26 11:34:05.154] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:05.154] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:05.251] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000112-RL.jpg
+[2025-04-26 11:34:05.319] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:05.866] [info] ----- TRIGGER NO. 113 true
+[2025-04-26 11:34:05.952] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:05.952] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:06.047] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000113-RL.jpg
+[2025-04-26 11:34:06.118] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:06.663] [info] ----- TRIGGER NO. 114 true
+[2025-04-26 11:34:06.751] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:06.751] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:06.847] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000114-RL.jpg
+[2025-04-26 11:34:06.915] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:07.457] [info] ----- TRIGGER NO. 115 true
+[2025-04-26 11:34:07.544] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:07.544] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:07.644] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000115-RL.jpg
+[2025-04-26 11:34:07.708] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:08.246] [info] ----- TRIGGER NO. 116 true
+[2025-04-26 11:34:08.334] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:08.334] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:08.430] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000116-RL.jpg
+[2025-04-26 11:34:08.501] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:09.031] [info] ----- TRIGGER NO. 117 true
+[2025-04-26 11:34:09.118] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:09.118] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:09.212] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000117-RL.jpg
+[2025-04-26 11:34:09.283] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:09.814] [info] ----- TRIGGER NO. 118 true
+[2025-04-26 11:34:09.900] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:09.900] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:09.996] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000118-RL.jpg
+[2025-04-26 11:34:10.065] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:10.597] [info] ----- TRIGGER NO. 119 true
+[2025-04-26 11:34:10.684] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:10.684] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:10.778] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000119-RL.jpg
+[2025-04-26 11:34:10.849] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:11.379] [info] ----- TRIGGER NO. 120 true
+[2025-04-26 11:34:11.463] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:11.463] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:11.561] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000120-RL.jpg
+[2025-04-26 11:34:11.628] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:12.163] [info] ----- TRIGGER NO. 121 true
+[2025-04-26 11:34:12.248] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:12.248] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:12.344] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000121-RL.jpg
+[2025-04-26 11:34:12.412] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:12.952] [info] ----- TRIGGER NO. 122 true
+[2025-04-26 11:34:13.039] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:13.039] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:13.137] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000122-RL.jpg
+[2025-04-26 11:34:13.202] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:13.743] [info] ----- TRIGGER NO. 123 true
+[2025-04-26 11:34:13.827] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:13.827] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:13.925] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000123-RL.jpg
+[2025-04-26 11:34:13.991] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:14.537] [info] ----- TRIGGER NO. 124 true
+[2025-04-26 11:34:14.624] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:14.624] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:14.719] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000124-RL.jpg
+[2025-04-26 11:34:14.788] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:15.335] [info] ----- TRIGGER NO. 125 true
+[2025-04-26 11:34:15.423] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:15.423] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:15.519] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000125-RL.jpg
+[2025-04-26 11:34:15.587] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:16.136] [info] ----- TRIGGER NO. 126 true
+[2025-04-26 11:34:16.222] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:16.222] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:16.316] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000126-RL.jpg
+[2025-04-26 11:34:16.388] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:16.938] [info] ----- TRIGGER NO. 127 true
+[2025-04-26 11:34:17.026] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:17.026] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:17.123] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000127-RL.jpg
+[2025-04-26 11:34:17.190] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:17.741] [info] ----- TRIGGER NO. 128 true
+[2025-04-26 11:34:17.828] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:17.828] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:17.922] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000128-RL.jpg
+[2025-04-26 11:34:17.992] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:18.543] [info] ----- TRIGGER NO. 129 true
+[2025-04-26 11:34:18.627] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:18.627] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:18.775] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000129-RL.jpg
+[2025-04-26 11:34:18.792] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:19.344] [info] ----- TRIGGER NO. 130 true
+[2025-04-26 11:34:19.428] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:19.428] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:19.520] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000130-RL.jpg
+[2025-04-26 11:34:19.592] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:20.142] [info] ----- TRIGGER NO. 131 true
+[2025-04-26 11:34:20.230] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:20.230] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:20.329] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000131-RL.jpg
+[2025-04-26 11:34:20.394] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:20.938] [info] ----- TRIGGER NO. 132 true
+[2025-04-26 11:34:21.025] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:21.025] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:21.163] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000132-RL.jpg
+[2025-04-26 11:34:21.189] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:21.731] [info] ----- TRIGGER NO. 133 true
+[2025-04-26 11:34:21.815] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:21.815] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:21.924] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000133-RL.jpg
+[2025-04-26 11:34:21.979] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:22.522] [info] ----- TRIGGER NO. 134 true
+[2025-04-26 11:34:22.607] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:22.607] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:22.754] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000134-RL.jpg
+[2025-04-26 11:34:22.771] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:23.314] [info] ----- TRIGGER NO. 135 true
+[2025-04-26 11:34:23.402] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:23.402] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:23.545] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000135-RL.jpg
+[2025-04-26 11:34:23.566] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:24.106] [info] ----- TRIGGER NO. 136 true
+[2025-04-26 11:34:24.193] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:24.193] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:24.339] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000136-RL.jpg
+[2025-04-26 11:34:24.358] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:24.901] [info] ----- TRIGGER NO. 137 true
+[2025-04-26 11:34:24.984] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:24.984] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:25.081] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000137-RL.jpg
+[2025-04-26 11:34:25.149] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:25.698] [info] ----- TRIGGER NO. 138 true
+[2025-04-26 11:34:25.785] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:25.785] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:25.932] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000138-RL.jpg
+[2025-04-26 11:34:25.949] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:26.497] [info] ----- TRIGGER NO. 139 true
+[2025-04-26 11:34:26.581] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:26.581] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:26.726] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000139-RL.jpg
+[2025-04-26 11:34:26.747] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:27.300] [info] ----- TRIGGER NO. 140 true
+[2025-04-26 11:34:27.388] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:27.388] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:27.512] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000140-RL.jpg
+[2025-04-26 11:34:27.552] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:28.109] [info] ----- TRIGGER NO. 141 true
+[2025-04-26 11:34:28.197] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:28.197] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:28.324] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000141-RL.jpg
+[2025-04-26 11:34:28.361] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:28.919] [info] ----- TRIGGER NO. 142 true
+[2025-04-26 11:34:29.004] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:29.004] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:29.131] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000142-RL.jpg
+[2025-04-26 11:34:29.169] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:29.732] [info] ----- TRIGGER NO. 143 true
+[2025-04-26 11:34:29.820] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:29.820] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:29.915] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000143-RL.jpg
+[2025-04-26 11:34:29.985] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:30.545] [info] ----- TRIGGER NO. 144 true
+[2025-04-26 11:34:30.631] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:30.631] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:30.764] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000144-RL.jpg
+[2025-04-26 11:34:30.796] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:31.362] [info] ----- TRIGGER NO. 145 true
+[2025-04-26 11:34:31.449] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:31.449] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:31.568] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000145-RL.jpg
+[2025-04-26 11:34:31.616] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:32.186] [info] ----- TRIGGER NO. 146 true
+[2025-04-26 11:34:32.271] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:32.271] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:32.393] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000146-RL.jpg
+[2025-04-26 11:34:32.436] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:33.016] [info] ----- TRIGGER NO. 147 true
+[2025-04-26 11:34:33.101] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:33.101] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:33.221] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000147-RL.jpg
+[2025-04-26 11:34:33.266] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:33.848] [info] ----- TRIGGER NO. 148 true
+[2025-04-26 11:34:33.932] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:33.932] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:34.028] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000148-RL.jpg
+[2025-04-26 11:34:34.096] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:34.687] [info] ----- TRIGGER NO. 149 true
+[2025-04-26 11:34:34.774] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:34.774] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:34.872] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000149-RL.jpg
+[2025-04-26 11:34:34.939] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:35.530] [info] ----- TRIGGER NO. 150 true
+[2025-04-26 11:34:35.617] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:35.617] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:35.712] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000150-RL.jpg
+[2025-04-26 11:34:35.782] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:36.375] [info] ----- TRIGGER NO. 151 true
+[2025-04-26 11:34:36.462] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:36.462] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:36.559] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000151-RL.jpg
+[2025-04-26 11:34:36.627] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:37.222] [info] ----- TRIGGER NO. 152 true
+[2025-04-26 11:34:37.307] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:37.307] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:37.404] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000152-RL.jpg
+[2025-04-26 11:34:37.472] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:38.072] [info] ----- TRIGGER NO. 153 true
+[2025-04-26 11:34:38.159] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:38.159] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:38.256] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000153-RL.jpg
+[2025-04-26 11:34:38.324] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:38.923] [info] ----- TRIGGER NO. 154 true
+[2025-04-26 11:34:39.010] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:39.010] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:39.128] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000154-RL.jpg
+[2025-04-26 11:34:39.175] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:39.774] [info] ----- TRIGGER NO. 155 true
+[2025-04-26 11:34:39.861] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:39.861] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:40.003] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000155-RL.jpg
+[2025-04-26 11:34:40.026] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:40.628] [info] ----- TRIGGER NO. 156 true
+[2025-04-26 11:34:40.713] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:40.713] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:40.833] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000156-RL.jpg
+[2025-04-26 11:34:40.877] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:41.485] [info] ----- TRIGGER NO. 157 true
+[2025-04-26 11:34:41.573] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:41.573] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:41.670] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000157-RL.jpg
+[2025-04-26 11:34:41.737] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:42.344] [info] ----- TRIGGER NO. 158 true
+[2025-04-26 11:34:42.433] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:42.433] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:42.549] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000158-RL.jpg
+[2025-04-26 11:34:42.599] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:43.204] [info] ----- TRIGGER NO. 159 true
+[2025-04-26 11:34:43.292] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:43.292] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:43.438] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000159-RL.jpg
+[2025-04-26 11:34:43.456] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:44.071] [info] ----- TRIGGER NO. 160 true
+[2025-04-26 11:34:44.158] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:44.158] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:44.264] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000160-RL.jpg
+[2025-04-26 11:34:44.323] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:44.945] [info] ----- TRIGGER NO. 161 true
+[2025-04-26 11:34:45.030] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:45.030] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:45.127] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000161-RL.jpg
+[2025-04-26 11:34:45.194] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:45.830] [info] ----- TRIGGER NO. 162 true
+[2025-04-26 11:34:45.918] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:45.918] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:46.011] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000162-RL.jpg
+[2025-04-26 11:34:46.083] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:46.730] [info] ----- TRIGGER NO. 163 true
+[2025-04-26 11:34:46.818] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:46.818] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:46.965] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000163-RL.jpg
+[2025-04-26 11:34:46.982] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:47.643] [info] ----- TRIGGER NO. 164 true
+[2025-04-26 11:34:47.727] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:47.727] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:47.819] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000164-RL.jpg
+[2025-04-26 11:34:47.893] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:48.563] [info] ----- TRIGGER NO. 165 true
+[2025-04-26 11:34:48.647] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:48.647] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:48.740] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000165-RL.jpg
+[2025-04-26 11:34:48.811] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:49.491] [info] ----- TRIGGER NO. 166 true
+[2025-04-26 11:34:49.577] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:49.577] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:49.672] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000166-RL.jpg
+[2025-04-26 11:34:49.741] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:50.422] [info] ----- TRIGGER NO. 167 true
+[2025-04-26 11:34:50.507] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:50.507] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:50.601] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000167-RL.jpg
+[2025-04-26 11:34:50.672] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:51.352] [info] ----- TRIGGER NO. 168 true
+[2025-04-26 11:34:51.440] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:51.440] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:51.537] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000168-RL.jpg
+[2025-04-26 11:34:51.604] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:52.271] [info] ----- TRIGGER NO. 169 true
+[2025-04-26 11:34:52.358] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:52.358] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:52.453] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000169-RL.jpg
+[2025-04-26 11:34:52.522] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:53.176] [info] ----- TRIGGER NO. 170 true
+[2025-04-26 11:34:53.263] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:53.263] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:53.357] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000170-RL.jpg
+[2025-04-26 11:34:53.427] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:54.069] [info] ----- TRIGGER NO. 171 true
+[2025-04-26 11:34:54.153] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:54.153] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:54.281] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000171-RL.jpg
+[2025-04-26 11:34:54.318] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:54.959] [info] ----- TRIGGER NO. 172 true
+[2025-04-26 11:34:55.046] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:55.046] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:55.151] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000172-RL.jpg
+[2025-04-26 11:34:55.210] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:55.851] [info] ----- TRIGGER NO. 173 true
+[2025-04-26 11:34:55.937] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:55.937] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:56.061] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000173-RL.jpg
+[2025-04-26 11:34:56.101] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:56.738] [info] ----- TRIGGER NO. 174 true
+[2025-04-26 11:34:56.823] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:56.823] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:56.940] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000174-RL.jpg
+[2025-04-26 11:34:56.988] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:57.621] [info] ----- TRIGGER NO. 175 true
+[2025-04-26 11:34:57.708] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:57.708] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:57.802] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000175-RL.jpg
+[2025-04-26 11:34:57.873] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:58.497] [info] ----- TRIGGER NO. 176 true
+[2025-04-26 11:34:58.582] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:58.582] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:58.733] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000176-RL.jpg
+[2025-04-26 11:34:58.747] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:34:59.370] [info] ----- TRIGGER NO. 177 true
+[2025-04-26 11:34:59.455] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:34:59.455] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:34:59.602] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000177-RL.jpg
+[2025-04-26 11:34:59.620] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:00.236] [info] ----- TRIGGER NO. 178 true
+[2025-04-26 11:35:00.323] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:00.323] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:00.467] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000178-RL.jpg
+[2025-04-26 11:35:00.487] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:01.095] [info] ----- TRIGGER NO. 179 true
+[2025-04-26 11:35:01.182] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:01.182] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:01.278] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000179-RL.jpg
+[2025-04-26 11:35:01.348] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:01.956] [info] ----- TRIGGER NO. 180 true
+[2025-04-26 11:35:02.043] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:02.043] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:02.141] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000180-RL.jpg
+[2025-04-26 11:35:02.208] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:02.825] [info] ----- TRIGGER NO. 181 true
+[2025-04-26 11:35:02.911] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:02.911] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:03.009] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000181-RL.jpg
+[2025-04-26 11:35:03.075] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:03.692] [info] ----- TRIGGER NO. 182 true
+[2025-04-26 11:35:03.778] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:03.778] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:03.897] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000182-RL.jpg
+[2025-04-26 11:35:03.944] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:04.552] [info] ----- TRIGGER NO. 183 true
+[2025-04-26 11:35:04.637] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:04.637] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:04.766] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000183-RL.jpg
+[2025-04-26 11:35:04.802] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:05.405] [info] ----- TRIGGER NO. 184 true
+[2025-04-26 11:35:05.492] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:05.492] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:05.587] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000184-RL.jpg
+[2025-04-26 11:35:05.657] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:06.249] [info] ----- TRIGGER NO. 185 true
+[2025-04-26 11:35:06.336] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:06.336] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:06.430] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000185-RL.jpg
+[2025-04-26 11:35:06.501] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:07.083] [info] ----- TRIGGER NO. 186 true
+[2025-04-26 11:35:07.172] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:07.172] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:07.274] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000186-RL.jpg
+[2025-04-26 11:35:07.336] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:07.913] [info] ----- TRIGGER NO. 187 true
+[2025-04-26 11:35:08.002] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:08.002] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:08.148] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000187-RL.jpg
+[2025-04-26 11:35:08.167] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:08.738] [info] ----- TRIGGER NO. 188 true
+[2025-04-26 11:35:08.825] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:08.825] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:08.921] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000188-RL.jpg
+[2025-04-26 11:35:08.989] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:09.557] [info] ----- TRIGGER NO. 189 true
+[2025-04-26 11:35:09.644] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:09.644] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:09.739] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000189-RL.jpg
+[2025-04-26 11:35:09.812] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:10.374] [info] ----- TRIGGER NO. 190 true
+[2025-04-26 11:35:10.461] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:10.461] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:10.558] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000190-RL.jpg
+[2025-04-26 11:35:10.625] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:11.198] [info] ----- TRIGGER NO. 191 true
+[2025-04-26 11:35:11.282] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:11.282] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:11.375] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000191-RL.jpg
+[2025-04-26 11:35:11.447] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:12.033] [info] ----- TRIGGER NO. 192 true
+[2025-04-26 11:35:12.122] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:12.122] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:12.216] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000192-RL.jpg
+[2025-04-26 11:35:12.287] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:12.885] [info] ----- TRIGGER NO. 193 true
+[2025-04-26 11:35:12.971] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:12.971] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:13.066] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000193-RL.jpg
+[2025-04-26 11:35:13.135] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:13.754] [info] ----- TRIGGER NO. 194 true
+[2025-04-26 11:35:13.840] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:13.840] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:13.935] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000194-RL.jpg
+[2025-04-26 11:35:14.005] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:14.649] [info] ----- TRIGGER NO. 195 true
+[2025-04-26 11:35:14.736] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:14.736] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:14.877] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000195-RL.jpg
+[2025-04-26 11:35:14.901] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:15.568] [info] ----- TRIGGER NO. 196 true
+[2025-04-26 11:35:15.653] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:15.653] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:15.752] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000196-RL.jpg
+[2025-04-26 11:35:15.818] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:16.510] [info] ----- TRIGGER NO. 197 true
+[2025-04-26 11:35:16.598] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:16.598] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:16.696] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000197-RL.jpg
+[2025-04-26 11:35:16.761] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:17.479] [info] ----- TRIGGER NO. 198 true
+[2025-04-26 11:35:17.566] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:17.566] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:17.665] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000198-RL.jpg
+[2025-04-26 11:35:17.730] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:18.475] [info] ----- TRIGGER NO. 199 true
+[2025-04-26 11:35:18.560] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:18.560] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:18.692] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000199-RL.jpg
+[2025-04-26 11:35:18.725] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:19.500] [info] ----- TRIGGER NO. 200 true
+[2025-04-26 11:35:19.587] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:19.587] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:19.681] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000200-RL.jpg
+[2025-04-26 11:35:19.752] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:20.553] [info] ----- TRIGGER NO. 201 true
+[2025-04-26 11:35:20.640] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:20.640] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:20.734] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000201-RL.jpg
+[2025-04-26 11:35:20.804] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:21.640] [info] ----- TRIGGER NO. 202 true
+[2025-04-26 11:35:21.728] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:21.728] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:21.825] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000202-RL.jpg
+[2025-04-26 11:35:21.892] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:22.832] [info] ----- TRIGGER NO. 203 true
+[2025-04-26 11:35:22.919] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:22.919] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:23.011] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000203-RL.jpg
+[2025-04-26 11:35:23.083] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:24.343] [info] ----- TRIGGER NO. 204 true
+[2025-04-26 11:35:24.429] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:24.429] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:24.524] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000204-RL.jpg
+[2025-04-26 11:35:24.593] [debug] captureImage 0 Success. 0 Success. true
+[2025-04-26 11:35:26.686] [info] ----- TRIGGER NO. 205 true
+[2025-04-26 11:35:26.773] [debug] Frame ID: 0Status: Complete Size:2464x2056 Format:2180014
+[2025-04-26 11:35:26.773] [info] copyBufferToThreadData cId RL bw 2464 bh 2056
+[2025-04-26 11:35:26.907] [debug] Saved file /mnt/merged_disk/GURUGRAM-DWARKA_2025-04-26_11-12-13/SECTION-1/pcams/pcam-0000205-RL.jpg
+[2025-04-26 11:35:26.938] [debug] captureImage 0 Success. 0 Success. true

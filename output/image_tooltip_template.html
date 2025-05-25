@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { 
+            margin: 5px; 
+            font-family: Arial, sans-serif; 
+            background: #f9f9f9;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        .header {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+        .image-container { 
+            text-align: center;
+            margin: 10px 0;
+        }
+        .road-image { 
+            max-width: 300px; 
+            max-height: 200px; 
+            border: 2px solid #007cba;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .image-info {
+            font-size: 11px;
+            color: #666;
+            margin-top: 5px;
+            background: white;
+            padding: 5px;
+            border-radius: 3px;
+        }
+        .distance {
+            font-weight: bold;
+            color: #007cba;
+        }
+        .no-image {
+            color: #999;
+            font-style: italic;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    [% CASE WHEN "Image_URI" IS NOT NULL AND "Image_URI" != '' THEN %]
+        <div class="header">Road Crack Image</div>
+        <div class="image-container">
+            <img src="[% "Image_URI" %]" alt="Road crack image" class="road-image">
+            <div class="image-info">
+                <div><strong>File:</strong> [% "Image_Name" %]</div>
+                <div><strong>Distance:</strong> <span class="distance">[% "Distance_m" %]m</span></div>
+            </div>
+        </div>
+    [% ELSE %]
+        <div class="no-image">No image associated with this road segment</div>
+    [% END %]
+</body>
+</html>
